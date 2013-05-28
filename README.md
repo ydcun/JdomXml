@@ -1,5 +1,5 @@
-ÓÃjdom.jar À´¶Ôxml´¦ÀíµÄÀı×Ó
+ï»¿ç”¨jdom.jar æ¥å¯¹xmlå¤„ç†çš„ä¾‹å­
 
-struts.xml ÎªÒª½âÎöµÄxmlÎÄµµ
-TestDemo.java Îª½âÎöÔ´Âë
-jdom.jar  ËùĞèµÄjar°ü
+struts.xml ä¸ºè¦è§£æçš„xmlæ–‡æ¡£
+TestDemo.java ä¸ºè§£ææºç 
+jdom.jar  æ‰€éœ€çš„jaråŒ…
